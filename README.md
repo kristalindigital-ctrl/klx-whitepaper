@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/logo.png" alt="KLX Logo" width="220"/>
+</p>
 # KLX Whitepaper
 
 Welcome to the **KLX Whitepaper**.  
