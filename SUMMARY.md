@@ -1,16 +1,22 @@
-# KLX Whitepaper Summary
+# Summary
 
-**KLX** is a tokenization project for the shares of an Indonesian gold mining company (PT Kristalin Eka Lestari), issued via KLX Digital FZ-LLC in Dubai.  
-The $KLX token functions as a **digital stock (security token)** that provides ownership, dividends, and governance rights through a DAO framework.
+* [About KLX](README.md)
 
-## Key Highlights
-- **Background:** Tokenization solves limited access, high costs, and low liquidity in mining equity.  
-- **Business Model:** $KLX = equity-backed token with dividends distributed via smart contracts.  
-- **Vision:** To build Indonesia into a global RWA hub, expanding to nickel, coal, and renewable energy.  
-- **Tokenomics:** 200M fixed supply, distributed across presale, liquidity, treasury, community, team, and partners.  
-- **Roadmap:** 2025–2030 milestones include launch, on-chain dividends, global listings, new asset tokenization, DeFi integration, and CBDC readiness.  
-- **Governance:** DAO voting rights (1 KLX = 1 vote, quadratic voting model).  
-- **Risks & Mitigation:** Price volatility, regulatory changes, technology risks, and mining operations. Managed through diversification, audits, insurance, and dual-entity legal structures.  
-- **Community & Ecosystem:** Growth via transparency, education, partnerships, and academic collaboration.  
-- **Conclusion:** KLX pioneers Indonesian mining company tokenization, bridging global investors with real assets.
-
+## Whitepaper
+* [1. Introduction](01-introduction.md)
+* [2. KLX Digital Project Overview](02-klx-digital-overview.md)
+* [3. Vision, Mission & Added Value](03-vision-mission.md)
+* [4. Market Analysis](04-market-analysis.md)
+* [5. Basic Assets & Company Structure](05-basic-assets-company-structure.md)
+* [6. Legal Structure & Regulations](06-legal-structure-regulations.md)
+* [7. Technology Architecture](07-technology-architecture.md)
+* [8. KLX Tokenomics](08-klx-tokenomics.md)
+* [9. KLX Utility & Ecosystem](09-klx-utility-ecosystem.md)
+* [10. Roadmap 2025–2030](10-roadmap-2025-2030.md)
+* [11. Governance Model](11-governance-model.md)
+* [12. Risk & Mitigation](12-risk-mitigation.md)
+* [13. Community & Ecosystem](13-community-ecosystem.md)
+* [14. Team & Partners](14-team-partners.md)
+* [15. Technical Attachments](15-technical-attachments.md)
+* [16. Legal & Financial Attachments](16-legal-financial-attachments.md)
+* [17. Conclusion](17-conclusion.md)
