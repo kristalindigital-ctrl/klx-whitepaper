@@ -1,12 +1,22 @@
-#### 15.1 Detail Smart Contract
-Smart contract KLX didasarkan pada **standar ERC-20** dengan rencana untuk meningkatkan ke standar token sekuritas seperti ERC-1400 atau ERC-3643. Fitur utama meliputi pembatasan transfer untuk KYC/AML, distribusi dividen otomatis, dan fungsi pemungutan suara tata kelola.
+# 15. Technical Attachments
 
-#### 15.2 Alamat Kontrak Testnet/Mainnet
-Kontrak akan di-deploy di Ethereum Sepolia Testnet dan kemudian di Ethereum Mainnet. Alamat resmi akan diumumkan setelah audit.
+## 15.1 Smart Contract Details
+- ERC-20 base, upgradeable to ERC-1400/3643.  
+- Features: transfer restriction, dividend distribution, governance voting, proxy upgrades.  
 
-#### 15.3 Bagan Alir Mekanisme Dividen On-Chain
-[Gambar bagan alir dividen]
-Bagan alir menunjukkan proses dari laporan keuangan PT KEL hingga pembayaran dividen akhir kepada pemegang dompet, dengan langkah-langkah untuk audit independen, konversi stablecoin, dan distribusi smart contract.
+## 15.2 Testnet/Mainnet
+- Sepolia & BSC testnets in 2025.  
+- Ethereum mainnet deployment in Q3 2025.  
 
-#### 15.4 Contoh Sertifikat Kepemilikan NFT
-Setiap batch saham yang ditokenisasi akan memiliki **Sertifikat Digital NFT** sebagai bukti kepemilikan tambahan. NFT yang tidak dapat dipindahtangankan ini akan berisi metadata seperti nomor sertifikat, alamat dompet pemilik, dan catatan hak hukum.
+## 15.3 Dividend Flow
+1. PT KEL financials.  
+2. Independent audit.  
+3. Profit → stablecoins.  
+4. Treasury multi-sig wallet.  
+5. Smart contract distribution.  
+6. Payments to token holders.
+
+## 15.4 NFT Certificates
+- Metadata includes certificate number, owner, rights.  
+- Non-transferable proof of ownership.  
+- Linked to legal agreements.

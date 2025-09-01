@@ -1,4 +1,12 @@
-#### 17.1 Pernyataan Visi KLX sebagai Pelopor dalam Tokenisasi
-KLX diposisikan sebagai token sekuritas pertama yang mewakili kepemilikan digital perusahaan tambang emas Indonesia yang sah dan diaudit. Dengan menggabungkan basis hukum di Dubai dengan operasi nyata di Indonesia, KLX bertujuan untuk menjadi **pelopor dalam tokenisasi perusahaan tambang Indonesia**.
+# 17. Conclusion
 
-Visinya adalah membawa kekayaan sumber daya alam Indonesia ke panggung global melalui blockchain, bertindak sebagai jembatan antara investor internasional dan aset-aset Indonesia. Tujuan jangka panjangnya adalah menjadikan Indonesia sebagai Pusat RWA global dengan ekosistem multi-aset yang menokenisasi berbagai sumber daya seperti nikel, batu bara, dan energi terbarukan.
+## 17.1 KLX Vision
+KLX is the first Indonesian mining company tokenization project, bridging real-world assets and blockchain. It is a **security token** backed by audited operations and strong legal frameworks (Dubai + Indonesia).
+
+## 17.2 Long-Term Commitment
+- Expand to nickel, coal, and renewable energy.  
+- Launch KLX DeFi platform.  
+- Listing on global regulated exchanges.  
+- Integrate CBDC-ready settlement systems.  
+
+By 2030, KLX aims to establish **Indonesia as a global RWA hub**, channeling billions in international capital to local resources.

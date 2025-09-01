@@ -1,11 +1,32 @@
-#### 13.1 Pentingnya Komunitas dalam KLX
-KLX menyadari bahwa komunitas yang kuat sangat penting untuk likuiditas pasar, kepercayaan investor, dan tata kelola DAO yang efektif.
+# 13. Community & Ecosystem
 
-#### 13.2 Strategi Pertumbuhan Komunitas
-Strateginya melibatkan transparansi maksimal melalui laporan keuangan publik dan dasbor on-chain, program edukasi RWA, dan upaya membangun komunitas melalui media sosial dan program duta. Hadiah dan program loyalitas, seperti airdrop dan imbalan staking, digunakan untuk memberi insentif kepada pengguna awal.
+## 13.1 Importance of Community
+- Drives liquidity, confidence, adoption, and governance strength.  
 
-#### 13.3 Kemitraan Strategis
-KLX bertujuan untuk membentuk kemitraan dengan bursa (CEX/DEX), dompet, kustodian, protokol DeFi, dan firma audit untuk memperluas ekosistem dan jangkauannya.
+## 13.2 Growth Strategy
+- Transparency: publish reports, dashboards.  
+- Education: RWA modules, workshops, whitepapers.  
+- Building: Telegram, Discord, ambassador programs.  
+- Rewards: airdrops, referrals, NFTs.
 
-#### 13.4 Program Edukasi & Kampanye RWA
-KLX berkomitmen untuk memposisikan Indonesia sebagai pelopor di pasar RWA melalui kampanye seperti "Indonesia RWA Hub," roadshow investor, dan kolaborasi dengan media.
+## 13.3 Strategic Partnerships
+- Exchanges (Binance, Coinbase, Uniswap).  
+- Wallets (Metamask, Ledger).  
+- Custodians for institutions.  
+- DeFi protocols (Aave, Compound).  
+- Legal & audit partners.
+
+## 13.4 RWA Education Campaign
+- “Indonesia RWA Hub” branding.  
+- Global roadshows and webinars.  
+- Media coverage in major outlets.
+
+## 13.5 Academic Collaboration
+- Universities for legal & financial studies.  
+- Blockchain institutes for standards.  
+- Joint publications & internship programs.
+
+## 13.6 Long-Term Ecosystem
+- Retail, institutional, and corporate adoption.  
+- DeFi/Web3 integration.  
+- KLX as a leading global RWA marketplace asset.

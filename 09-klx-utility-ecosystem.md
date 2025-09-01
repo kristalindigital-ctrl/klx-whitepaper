@@ -1,14 +1,30 @@
-#### 9.1 KLX sebagai Saham Digital
-Token $KLX adalah **token ekuitas digital** yang mewakili kepemilikan saham PT Kristalin Eka Lestari. Token ini memberikan hak ekonomi, seperti dividen dan potensi keuntungan modal, serta hak suara melalui sistem tata kelola (DAO). Model ini menjembatani saham tradisional dan aset digital.
+# 9. KLX Utility & Ecosystem
 
-#### 9.2 Dividen Periode Tetap
-Dividen dibayarkan setiap kuartal atau tahunan dalam stablecoin (USDT/USDC), memberikan investor sumber arus kas nyata yang tidak bergantung pada spekulasi harga pasar.
+## 9.1 KLX as a Digital Stock
+- Represents ownership in PT Kristalin Eka Lestari.  
+- Provides dividends, buyback rights, and governance voting.  
+- Acts as a bridge between traditional stocks and digital assets.
 
-#### 9.3 Pemungutan Suara Tata Kelola (DAO)
-Pemegang KLX memiliki hak suara, dengan sistem 1 KLX = 1 suara. Pemungutan suara dapat dilakukan pada hal-hal seperti kebijakan dividen, ekspansi tambang, dan penggunaan perbendaharaan. Pemungutan suara kuadratik dapat digunakan untuk mencegah pemegang besar mendominasi keputusan.
+## 9.2 Fixed Period Dividends
+- Paid quarterly or annually.  
+- Distributed on-chain in stablecoins (USDT/USDC).  
+- Provides real cash flow, not just speculation.
 
-#### 9.4 Akses ke RWA Berikutnya
-KLX akan bertindak sebagai **gerbang** bagi investor untuk mengakses proyek tokenisasi lain dalam ekosistem Kristalin, seperti nikel, batu bara, dan energi terbarukan. Pemegang KLX akan menerima akses awal dan preferensi harga untuk proyek-proyek baru ini.
+## 9.3 Governance Voting (DAO)
+- 1 KLX = 1 vote.  
+- Quadratic voting for fairness.  
+- Decisions include dividend policy, treasury use, new investments, technical upgrades.
 
-#### 9.5 Integrasi dengan DeFi
-Untuk meningkatkan utilitasnya, KLX akan diintegrasikan ke dalam ekosistem Keuangan Terdesentralisasi (DeFi). Ini memungkinkan pemegang untuk menggunakan KLX sebagai jaminan untuk pinjaman, meminjamkannya untuk mendapatkan hasil, atau mempertaruhkannya untuk imbalan tambahan.
+## 9.4 Access to Next RWA
+KLX holders receive early access and preferential terms for new tokenization projects:  
+- Nickel (EV battery sector).  
+- Coal (energy commodity).  
+- Renewable energy (solar, hydro, etc.).
+
+## 9.5 DeFi Integration
+- Collateral for borrowing stablecoins.  
+- Lending & borrowing.  
+- Staking with rewards.  
+- Liquidity pools on DEX.  
+
+**Utility Summary:** Digital stock, on-chain dividends, voting rights, early access to RWAs, DeFi integration.

@@ -1,8 +1,20 @@
-#### 11.1 Struktur DAO KLX
-KLX menggunakan model **Organisasi Otonom Terdesentralisasi (DAO)** untuk memastikan transparansi dan keterlibatan komunitas. DAO bertindak sebagai lapisan tata kelola tambahan, memungkinkan pemegang KLX untuk memilih keputusan strategis.
+# 11. Governance Model
 
-#### 11.2 Hak Suara Pemegang Token
-Pemegang $KLX memiliki hak ekonomi dan hak suara. Mekanisme pemungutan suara biasanya **1 KLX = 1 suara**, dengan opsi pemungutan suara kuadratik untuk keadilan.
+## 11.1 KLX DAO Structure
+- KLX Digital FZ-LLC (Dubai): issuer & compliance.  
+- PT KEL (Indonesia): operational entity.  
+- KLX DAO: community governance layer.
 
-#### 11.3 Mekanisme Proposal & Pemungutan Suara
-Keputusan besar dapat diajukan sebagai proposal tata kelola, meliputi topik seperti tindakan korporat, kebijakan dividen, dan peningkatan teknologi. Proposal diajukan ke smart contract DAO, diikuti dengan periode diskusi dan jendela pemungutan suara tujuh hari. Kuorum minimum 20% dari pasokan yang beredar diperlukan agar proposal dapat disahkan.
+## 11.2 Token Holder Rights
+- Economic: dividends.  
+- Voting: corporate policies, treasury, partnerships.  
+
+## 11.3 Proposal & Voting
+- Proposals: corporate actions, dividend policy, upgrades, partnerships.  
+- Voting: 7-day period, minimum quorum 20%.  
+- Execution: results auto-executed via smart contract.
+
+## 11.4 Community-Driven Expansion
+- Community proposals allowed.  
+- Reward and ambassador programs.  
+- Airdrops & NFTs for active participants.

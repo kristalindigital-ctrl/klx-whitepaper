@@ -1,34 +1,16 @@
-# Ringkasan Whitepaper KLX
+# KLX Whitepaper Summary
 
-Whitepaper Digital KLX merinci proyek untuk menokenisasi saham perusahaan tambang emas Indonesia, PT Kristalin Eka Lestari (PT KEL), menjadi token sekuritas bernama **$KLX**. Tujuan utama proyek ini adalah menjembatani aset dunia nyata dengan aset digital, membuka peluang investasi bagi investor global.
+**KLX** is a tokenization project for the shares of an Indonesian gold mining company (PT Kristalin Eka Lestari), issued via KLX Digital FZ-LLC in Dubai.  
+The $KLX token functions as a **digital stock (security token)** that provides ownership, dividends, and governance rights through a DAO framework.
 
-## Menu Bab
+## Key Highlights
+- **Background:** Tokenization solves limited access, high costs, and low liquidity in mining equity.  
+- **Business Model:** $KLX = equity-backed token with dividends distributed via smart contracts.  
+- **Vision:** To build Indonesia into a global RWA hub, expanding to nickel, coal, and renewable energy.  
+- **Tokenomics:** 200M fixed supply, distributed across presale, liquidity, treasury, community, team, and partners.  
+- **Roadmap:** 2025–2030 milestones include launch, on-chain dividends, global listings, new asset tokenization, DeFi integration, and CBDC readiness.  
+- **Governance:** DAO voting rights (1 KLX = 1 vote, quadratic voting model).  
+- **Risks & Mitigation:** Price volatility, regulatory changes, technology risks, and mining operations. Managed through diversification, audits, insurance, and dual-entity legal structures.  
+- **Community & Ecosystem:** Growth via transparency, education, partnerships, and academic collaboration.  
+- **Conclusion:** KLX pioneers Indonesian mining company tokenization, bridging global investors with real assets.
 
-* [Bab 1: Pendahuluan](1-Pendahuluan.md)
-* [Bab 2: Ringkasan Proyek Digital KLX](2-Ringkasan-Proyek-Digital-KLX.md)
-* [Bab 3: Visi, Misi & Nilai Tambah](3-Visi-Misi-Nilai-Tambah.md)
-* [Bab 4: Analisis Pasar](4-Analisis-Pasar.md)
-* [Bab 5: Aset Dasar & Struktur Perusahaan](5-Aset-Dasar-Struktur-Perusahaan.md)
-* [Bab 6: Struktur Hukum & Regulasi](6-Struktur-Hukum-Regulasi.md)
-* [Bab 7: Arsitektur Teknologi](7-Arsitektur-Teknologi.md)
-* [Bab 8: Tokenomics KLX](8-Tokenomics-KLX.md)
-* [Bab 9: Utilitas & Ekosistem KLX](9-Utilitas-Ekosistem-KLX.md)
-* [Bab 10: Peta Jalan KLX](10-Peta-Jalan-KLX.md)
-* [Bab 11: Model Tata Kelola](11-Model-Tata-Kelola.md)
-* [Bab 12: Risiko & Mitigasi](12-Risiko-Mitigasi.md)
-* [Bab 13: Komunitas & Ekosistem](13-Komunitas-Ekosistem.md)
-* [Bab 14: Tim & Mitra](14-Tim-Mitra.md)
-* [Bab 15: Lampiran Teknis](15-Lampiran-Teknis.md)
-* [Bab 16: Lampiran Hukum & Finansial](16-Lampiran-Hukum-Finansial.md)
-* [Bab 17: Kesimpulan](17-Kesimpulan.md)
-
-## Poin Penting
-
-* **Model Tokenisasi**: $KLX berfungsi sebagai saham digital yang memberikan pemegang hak ekonomi (dividen) dan hak tata kelola.
-* **Aliran Pendapatan Nyata**: Dividen dari laba bersih PT KEL didistribusikan secara otomatis kepada pemegang token melalui smart contract.
-* **Struktur Hukum Lintas Batas**: Proyek ini diatur oleh entitas yang berbasis di Dubai (KLX Digital FZ-LLC) untuk memastikan kepatuhan regulasi internasional (KYC/AML) dan didukung oleh operasi PT KEL di Indonesia.
-* **Transparansi & Tata Kelola**: Audit independen dan laporan keuangan dipublikasikan secara on-chain. Pemegang token dapat berpartisipasi dalam pengambilan keputusan melalui model Organisasi Otonom Terdesentralisasi (DAO).
-* **Peta Jalan Masa Depan**: Rencana jangka panjang termasuk menokenisasi aset strategis Indonesia lainnya (nikel, batu bara), meluncurkan platform DeFi, dan listing di bursa token sekuritas global.
-* **Mitigasi Risiko**: Dokumen ini secara proaktif mengidentifikasi dan menguraikan strategi mitigasi untuk risiko yang terkait dengan harga komoditas, regulasi, teknologi, dan operasi tambang.
-
-KLX memposisikan dirinya sebagai pelopor dalam membawa kekayaan sumber daya alam Indonesia ke panggung global melalui teknologi blockchain, membangun jembatan antara investor internasional dan aset nyata di Indonesia.

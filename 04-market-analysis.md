@@ -1,14 +1,18 @@
-#### 4.1 Pasar Emas & Tambang Global
-Emas tetap menjadi aset safe-haven yang vital, dengan permintaan yang konsisten dari investor, industri perhiasan, dan bank sentral. Indonesia memegang posisi strategis di pasar global karena cadangan mineralnya yang signifikan.
+# 4. Market Analysis
 
-#### 4.2 Tren Tokenisasi Aset Nyata
-Laporan industri memproyeksikan pasar RWA bisa mencapai **$16 triliun pada tahun 2030**. Pasar ini didorong oleh kebutuhan akan likuiditas, biaya distribusi yang lebih rendah, permintaan akan kepemilikan fraksional, dan adopsi institusional untuk efisiensi penyelesaian.
+## 4.1 Global Gold & Mining Market
+Gold remains a safe-haven asset with demand from investors, jewelry, and central banks. Mining requires high capital but offers strong margins with efficient operations. Indonesia is strategically important due to vast reserves.
 
-#### 4.3 Analisis Pesaing: Tokenisasi Emas vs. Tokenisasi Saham
-* **Tokenisasi emas (PAXG, XAUT)**: Berfokus pada dukungan bullion, menawarkan paparan terhadap harga emas fisik tanpa dividen.
-* **Tokenisasi saham (KLX)**: Menawarkan paparan terhadap operasi perusahaan, potensi dividen, dan hak tata kelola.
+*(Appendices contain detailed figures: production, reserves, average prices, RWA market projections from BCG/World Gold Council).*
 
-Keuntungan utama KLX adalah arus kas operasionalnya, yang memungkinkan dividen dan apresiasi potensial seiring pertumbuhan perusahaan.
+## 4.2 RWA Tokenization Trends
+Global RWA tokenization is projected to reach **USD 16 trillion by 2030**. Drivers include liquidity needs, reduced costs, fractional ownership demand, and institutional adoption.
 
-#### 4.4 Posisi KLX dalam Ekosistem RWA
-KLX menempati ceruk unik sebagai RWA ekuitas dari perusahaan tambang Indonesia. Penerbitannya melalui yurisdiksi pro-kripto seperti Dubai memfasilitasi akses ke modal internasional sambil mempertahankan kepatuhan dengan hukum lokal Indonesia untuk kegiatan operasional.
+## 4.3 Competitor Analysis
+- **Bullion-backed tokens (PAXG, XAUT):** gold exposure only, no dividends.  
+- **Stock tokenization (KLX):** exposure to company operations, dividends, governance rights.  
+
+KLX offers operational cash flow, leverage, and appreciation potential.
+
+## 4.4 KLX’s Position in RWA Ecosystem
+KLX fills a unique niche: **equity RWA** from an Indonesian mining company, issued under Dubai’s crypto-friendly legal base, ensuring global accessibility and compliance.

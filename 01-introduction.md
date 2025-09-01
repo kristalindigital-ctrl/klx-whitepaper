@@ -1,18 +1,31 @@
-#### 1.1 Latar Belakang
-Pertumbuhan blockchain dan smart contract telah membuka jalan bagi pergeseran besar dalam cara aset keuangan dibuat, diperdagangkan, dan dipertukarkan. **Tokenisasi Aset Dunia Nyata (RWA)** memungkinkan kepemilikan fraksional aset fisik atau ekuitas perusahaan diubah menjadi unit digital yang dapat diperdagangkan, menawarkan lebih banyak transparansi dan efisiensi biaya daripada metode tradisional.
+# 1. Introduction
 
-Indonesia memiliki cadangan mineral yang melimpah, tetapi perusahaan tambang lokal sering menghadapi hambatan dalam mengakses modal global karena masalah hukum lintas batas, biaya listing tradisional yang tinggi, dan likuiditas yang rendah. KLX Digital mengatasi hal ini dengan menawarkan solusi: menokenisasi kepemilikan perusahaan (token ekuitas). Ini memungkinkan investor global untuk membeli saham PT Kristalin Eka Lestari (PT KEL) melalui token $KLX, menerima dividen, dan berpartisipasi dalam tata kelola, sambil dilindungi oleh struktur hukum yang melibatkan entitas penerbitan yang berbasis di Dubai dan operasi di Indonesia.
+## 1.1 Background
+The development of distributed ledger technology (blockchain) and smart contracts creates opportunities for a major transformation in how financial assets are generated, traded, and exchanged. Real World Asset (RWA) tokenization allows fractional ownership of tangible assets or corporate equity into globally tradable digital units with greater transparency and efficiency than traditional channels.
 
-#### 1.2 Evolusi Investasi Aset Nyata ke Aset Digital
-Evolusi investasi telah melalui beberapa tahap: dari kepemilikan penuh aset fisik menjadi instrumen kertas (seperti saham, ETF, dan obligasi), kemudian ke aset digital-native (kripto), dan akhirnya ke tokenisasi RWA. Tokenisasi menggabungkan yang terbaik dari kedua dunia: nilai intrinsik dan arus kas aset nyata dengan manfaat aset digital, seperti likuiditas 24/7, kepemilikan fraksional, dan keuangan terprogram. Institusi besar mulai menjajaki RWA karena potensi skalabilitas dan efisiensi biayanya.
+Indonesia has vast mineral resources, including gold, but global capital access is often hampered by cross-border legal constraints, traditional listing costs, and low liquidity. KLX Digital offers a solution through tokenization of company ownership (equity token), enabling global investors to purchase shares of PT Kristalin Eka Lestari (PT KEL) via $KLX tokens, receive dividends, and participate in governance — all under a clear legal structure (Dubai entity for issuance + Indonesian operations).
 
-#### 1.3 Masalah dalam Industri Pertambangan & Investasi Emas
-Industri pertambangan dan investasi emas menghadapi beberapa tantangan:
-* Akses terbatas bagi investor ritel ke saham perusahaan tambang swasta.
-* Likuiditas rendah dalam ekuitas tambang swasta dan proses keluar yang panjang.
-* Kurangnya transparansi dalam data produksi, cadangan, dan laporan keuangan.
-* Biaya tinggi yang terkait dengan listing saham tradisional, penjaminan, dan penerbitan.
-* Kompleksitas dalam menavigasi hukum lintas yurisdiksi saat mencari modal dari investor asing.
+## 1.2 Evolution of Real Asset Investment to Digital Assets
+Investment has evolved through several stages:  
+- Physical asset ownership →  
+- Paper instruments (stocks, ETFs, bonds) →  
+- Digital-native assets (cryptocurrency) →  
+- RWA tokenization.
 
-#### 1.4 Solusi: Tokenisasi Saham Perusahaan Tambang
-KLX Digital sedang melakukan **Penawaran Token Ekuitas (ETO/STO)**, di mana token $KLX mewakili klaim atas sebagian saham PT KEL melalui kendaraan tujuan khusus (SPV) dan perjanjian hukum. Pemegang $KLX memperoleh hak ekonomi (dividen) dan beberapa hak tata kelola. Model ini menawarkan aksesibilitas global, kepemilikan fraksional, distribusi dividen otomatis melalui smart contract, dan audit on-chain yang transparan.
+Tokenization combines the advantages of real assets (cash flow, intrinsic value) with those of digital assets (24/7 liquidity, fractional ownership, programmable finance). Institutions are increasingly exploring RWA for scalability and efficiency.
+
+## 1.3 Problems in the Gold Mining & Investment Industry
+- Limited access for retail investors to private mining shares.  
+- Low liquidity and long exit processes.  
+- Lack of transparency in reserves and financial reports.  
+- High costs for traditional listing and underwriting.  
+- Complex cross-border legal frameworks.
+
+## 1.4 Solution: Tokenization of Mining Shares
+KLX Digital conducts an Equity Token Offering (ETO/STO).  
+The $KLX token represents claims to PT KEL’s shares through a legal SPV mechanism.  
+Holders gain economic rights (dividends) and governance rights, with benefits including:  
+- Global accessibility  
+- Fractional ownership  
+- Automated dividend distribution via smart contracts  
+- On-chain audit and proof-of-backing.
