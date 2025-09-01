@@ -1,7 +1,7 @@
 # 8. KLX Tokenomics
 
 ## 8.1 Token Details
-- Name: Kristalin Token ($KLX)  
+- Name: KLX Token ($KLX)  
 - Type: Security Token (Equity-backed)  
 - Supply: 200,000,000 fixed  
 - Decimal: 18  
