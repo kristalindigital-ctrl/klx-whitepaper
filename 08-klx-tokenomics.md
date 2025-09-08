@@ -8,14 +8,19 @@
 - Chain: Ethereum (EVM), cross-chain planned.
 
 ## 8.2 Token Distribution
-- Presale & Listing: 50%  
-- Liquidity Pools: 15%  
-- Treasury & Reserve: 10%  
-- Partnerships: 5%  
-- Marketing & Community: 7.5%  
-- Team & Advisors: 5%  
-- Operations & Compliance: 2.5%  
-- Staking & Rewards: 5%  
+
+| Category               | Tokens (KLX)   | Allocation |
+|-------------------------|----------------|------------|
+| Presale & Listing       | 100,000,000 KLX | 50.0%      |
+| Liquidity Pools         | 30,000,000 KLX  | 15.0%      |
+| Treasury & Reserve      | 20,000,000 KLX  | 10.0%      |
+| Partnerships            | 10,000,000 KLX  | 5.0%       |
+| Marketing & Community   | 15,000,000 KLX  | 7.5%       |
+| Team & Advisors         | 10,000,000 KLX  | 5.0%       |
+| Operations & Compliance | 5,000,000 KLX   | 2.5%       |
+| Staking & Rewards       | 10,000,000 KLX  | 5.0%       |
+
+**Total Supply: 200,000,000 KLX**
 
 ## 8.3 Vesting
 - Team & Advisors: 24-month lock, vesting after.  
